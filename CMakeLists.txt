@@ -3,5 +3,5 @@ project(untitled C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(untitled pta_linked_list_6_3.c)
+add_executable(untitled pta_linked_list_6_5.c)
 
