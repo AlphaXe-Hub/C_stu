@@ -29,5 +29,5 @@ int countcs(struct ListNode *head) {
         }
         p = p->next;
     }
-    return count;
+    return count;//记得return
 }
